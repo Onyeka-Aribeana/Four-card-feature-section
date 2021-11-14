@@ -62,7 +62,7 @@ p {
   align-items: center;
 }
 
-.grid-container > div {
+.flex-container > div {
   flex: none;
 }
 
@@ -73,7 +73,7 @@ p {
   align-items: center;
 }
 
-.inner-grid > div {
+.inner-flex > div {
   flex: none;
 }
 
