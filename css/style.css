@@ -115,7 +115,7 @@ p {
   border-top-color: var(--blue);
 }
 
-@media screen and (max-width: 640px){
+@media screen and (max-width: 720px){
     .grid-container {
         flex-direction: column;
     }
