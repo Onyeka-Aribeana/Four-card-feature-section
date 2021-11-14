@@ -31,7 +31,7 @@ p {
 
 #main-header {
   text-align: center;
-  max-width: 450px;
+  max-width: 440px;
   margin: 0 auto;
 }
 
@@ -118,6 +118,7 @@ p {
 @media screen and (max-width: 640px){
     body {
         margin: 400px 0;
+        padding: 20px;
     }
     .flex-container {
         flex-direction: column;
